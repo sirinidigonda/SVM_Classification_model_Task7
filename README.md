@@ -16,7 +16,7 @@ Target classes:
 0 = Malignant
 1 = Benign
 
-Workflow:
+Steps:
 Loaded and explored the dataset.
 Preprocessed data using standard scaling.
 Trained SVM classifiers using:
